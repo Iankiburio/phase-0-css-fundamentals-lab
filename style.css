@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 { 
+  text-align: center;
+}
+img { 
+  display: block;
+  margin: 0 auto;
+}
+a {
+  display: flex;
+  justify-content: center;
+  border: 2px dashed crimson;
+  padding: 10px;
+  padding-left:10px;
+  padding-right: 10px;
+  background-color: cornflowerblue;
+}
+alt {
+  text-align: center;
+}
